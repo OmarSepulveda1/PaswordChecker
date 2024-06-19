@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Password Checker</string>
+    <string name="title">Password Checker </string>
+    <string name="pass_hint">Crea una contraseña </string>
+    <string name="button_text">Confirmar</string>
+    <string name="user_asdvise">*La contraseña debe tener al menos 5 caracteres y al menos una mayuscula.*</string>
+    <string name="password_advice">\n-> Características que hacen una contraseña más segura :\n\n->más de 5 caracteres\n\n->Debe tener al menos una letra mayúscula\n\n->Añadir números\n\n->Añadir caracteres especiales (!°#?$%)</string>
+
+
+</resources>
